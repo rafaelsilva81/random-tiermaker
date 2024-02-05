@@ -1,9 +1,23 @@
-# Fresh Chrome Extension boilerplate (Manifest V3)
+# RANDOM TIER MAKER
 
 ## Purpose
 
-This extension can be used as a boilerplate for creating new extensions for Chrome based browsers, like Google Chrome.
+Make a random tier list for free interaction bait =D
 
-## What it does
+## How to install
 
-When installed it will write something to DevTools console (F12) at the three most common events: before page load, after page load and when the user clicks the extension button on browser top bar.
+1. Clone this repo
+2. Go to `chrome://extensions/` (or `brave://extensions/` if you're using brave, or `edge:` or `opera:` you get the idea go to the extensions page)
+3. Enable developer mode (if you don't know how to do this, you can search it up)
+4. Click on "Load unpacked"
+5. Select the folder where you cloned this repo
+6. **RESTART BROWSER**
+7. Go to any tierlist on tiermaker.com and do your thing
+
+## Special thanks
+
+[This very cool chrome extension template](https://github.com/llagerlof/fresh-chrome-extension)
+
+## I found a bug
+
+Sorry I won't fix. I made this in like, 20 minutes and dont care
