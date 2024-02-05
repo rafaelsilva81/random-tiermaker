@@ -18,6 +18,3 @@ Make a random tier list for free interaction bait =D
 
 [This very cool chrome extension template](https://github.com/llagerlof/fresh-chrome-extension)
 
-## I found a bug
-
-Sorry I won't fix. I made this in like, 20 minutes and dont care
