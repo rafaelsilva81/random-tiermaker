@@ -20,4 +20,4 @@ Make a random tier list for free interaction bait =D
 
 ## I found a bug
 
-Sorry I won't fix. I made this in like, 20 minutes and dont care
+Sorry I won't fix. I made this in like, 20 minutes and I dont care
